@@ -1,6 +1,6 @@
 ### About me
 - 🤓  Currently learning: **Machine learning, Econometrics, DataViz**
-- 🛠️ Skills: **A/B testing, Python (Pandas, Numpy, Matplotlib, Statsmodels, Sklearn), PostgreSQL, PowerBI, R, Google sheets**
+- 🛠️ Skills: **A/B testing, Python (Pandas, Numpy, Matplotlib, Statsmodels, Sklearn), PostgreSQL, PowerBI, R, Google sheets, mathematical statistics**
 - 🌍 Languages: **English (Upper Intermediate), Russian (Native)**
 - 🎓 Education: **Cognitive science major, Saint Peterburg State University, 2023**
 
