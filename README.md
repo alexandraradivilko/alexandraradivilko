@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### About me
 - 🌱 I’m currently learning **Machine learning, Econometrics, DataViz**
 - 🛠️ Skills: A/B testing, Python (Pandas, Numpy, Matplotlib, Statsmodels), PostgreSQL, PowerBI, Google sheets
